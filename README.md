@@ -116,11 +116,6 @@ We welcome open-source contributions to **Plottwist project** ! If you would lik
 4. Push the changes to your forked repository: `git push origin feature-name`.
 5. Open a pull request to the main repository's `main` branch.
 
-### Contributors
-
-<a href="https://github.com/NeoFoxxo/plottwist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NeoFoxxo/plottwist" />
-</a>
 
 ## License 📝
 
